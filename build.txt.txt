@@ -1,0 +1,3 @@
+displayName = Crack
+author = Corruptor1243
+version = 1.0
