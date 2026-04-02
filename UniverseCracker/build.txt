@@ -1,0 +1,3 @@
+displayName = Cracker
+author = Corruptor1243
+version = 0.1
