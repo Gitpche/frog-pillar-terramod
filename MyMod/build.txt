@@ -1,0 +1,3 @@
+displayName = MyMod
+author = Corruptor1243
+version = 0.1
